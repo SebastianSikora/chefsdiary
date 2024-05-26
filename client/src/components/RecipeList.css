@@ -1,0 +1,35 @@
+.container {
+    max-width: 800px; /* Adjust container width as needed */
+    margin: 0 auto;
+}
+
+.recipe-card {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-card img {
+    max-width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.recipe-card .card-body {
+    padding: 1rem;
+}
+
+.recipe-card .list-group {
+    border-top: 1px solid #ddd;
+}
+
+.recipe-card .list-group-item {
+    border: none;
+}
+
+.carousel {
+    margin-bottom: 20px;
+}
+
+/* Additional styling can be added here */

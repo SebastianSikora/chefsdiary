@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+client/node_modules/
+
+# Build directory
+client/build/
+
+# dotenv environment variables file
+client/.env
+
+# Dependency directories
+server/node_modules/
+
+# Build directory
+server/build/
+
+# dotenv environment variables file
+server/.env
+
+client/.DS_Store
+server/.DS_Store
+.DS_Store
